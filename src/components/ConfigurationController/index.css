@@ -1,0 +1,41 @@
+.controller-container {
+  background-color: #475569;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.layout-text {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-bottom: 30px;
+}
+
+.all-check-box-container {
+  padding: 0px;
+}
+
+.check-box-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.checkbox {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+
+.label-text {
+  color: #e2e8f0;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
